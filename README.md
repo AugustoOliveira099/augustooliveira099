@@ -78,9 +78,9 @@ On my GitHub, you will find projects related to:
 
 ## 📫 Contact
 
-- 📧 Email: *[add your email here]*  
-- 💼 LinkedIn: *[add your LinkedIn here]*  
-- 🎓 Google Scholar / Lattes: *[optional]*  
+- 📧 Email: augusto.oliveira.099@ufrn.edu.br  
+- 💼 LinkedIn: [https://www.linkedin.com/in/augustooliveira099/](https://www.linkedin.com/in/augustooliveira099/)
+- 🎓 Lattes: [https://lattes.cnpq.br/3441954136559410](https://lattes.cnpq.br/3441954136559410)
 
 ---
 
